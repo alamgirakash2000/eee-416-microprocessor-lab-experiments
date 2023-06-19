@@ -8,5 +8,6 @@ the experiments of the Microprocessor and Embedded System Laboratory Course
 
 ## About the Authors
 
-[Md. Alamgir Hossain]() - Student Id -> 1806186 Md Meherab Hossain - Student Id
--> 1806182 Arnob Ghosh - Student Id -> 1806184
+- [Md. Alamgir Hossain](https://alamgir.vercel.app/) - Student Id -> 1806186
+- Md Meherab Hossain - Student Id -> 1806182
+- Arnob Ghosh - Student Id -> 1806184
